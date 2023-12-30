@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdosctoral Student
+role: Postdoctoral Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -53,7 +53,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:leuson-mario-pedro.da-silva@polymtl.ca"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/leusonmario
@@ -80,5 +80,5 @@ social:
 highlight_name: true
 ---
 
-I’m a Postdoctoral Fellow at Polytechnique Montreal since 2023. I have a P.h.D. Degree in Computer Science at the Federal University of Pernambuco (Brazil), where I’m a fellow researcher on the Software Productivity Group. In my research, I investigate and develop tools for supporting developers when dealing with code integration conflicts (build and test conflicts). My research interests are on Large Language Models, Mining Software Repositories, Collaborative Software Development, Empirical Studies, and Software Evolution.
+I’m a Postdoctoral Fellow at Polytechnique Montreal (Canada) since 2023. I have a P.h.D. Degree in Computer Science at the Federal University of Pernambuco (Brazil), where I’m a fellow researcher on the Software Productivity Group. In my research, I investigate and develop tools for supporting developers when dealing with code integration conflicts (build and test conflicts). My research interests are on Large Language Models, Mining Software Repositories, Collaborative Software Development, Empirical Studies, and Software Evolution.
 {style="text-align: justify;"}
