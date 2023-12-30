@@ -78,12 +78,6 @@ sections:
           description: Research
     design:
       columns: '2'
-  - block: service
-    content:
-        title: Service
-  - block: teaching
-    content:
-        title: Teaching
   - block: publication
     content:
       title: Publications
