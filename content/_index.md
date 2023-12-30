@@ -79,8 +79,8 @@ sections:
           description: Research
     design:
       columns: '2'
-  - block: publication
-    id: publication
+  - block: collection
+    id: collection
     content:
       title: Publications
       text: |-
