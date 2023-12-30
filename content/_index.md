@@ -56,7 +56,7 @@ sections:
       items:
         - title: Assistant Professor I
           company: Catholic University of Pernambuco
-          company_url: ''
+          company_url: 'https://portal.unicap.br/image/layout_set_logo?img_id=2214787&t=1703292837159'
           company_logo: Unicap
           location: Recife, Brazil
           date_start: '2022-03-01'
@@ -70,7 +70,7 @@ sections:
               * Programming Languages Paradigms (graduate courses)
         - title: Research Assistant
           company: Chalmers University
-          company_url: ''
+          company_url: 'https://www.chalmers.se/_next/static/media/chalmers.26fdad12.svg'
           company_logo: Chalmers
           location: Gothenburg, Sweden
           date_start: '2019-10-19'
