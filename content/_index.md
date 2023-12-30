@@ -67,7 +67,7 @@ sections:
               * Software Engineering
               * Object-Oriented Programming
               * Software Testing
-              * Programming Languages Paradigms (graduate courses)
+              * Programming Languages Paradigms
         - title: Research Assistant
           company: Chalmers University
           company_url: 'https://www.chalmers.se/'
@@ -78,20 +78,29 @@ sections:
           description: Research
     design:
       columns: '2'
-  - block: collection
-    id: featured
+  - block: service
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
+        title: Service
+        filters:
+          folders:
+            - service
+          exclude_featured: true
+      design:
+        columns: '2'
+        view: citation
+  - block: teaching
     content:
-      title: Recent Publications
+        title: Teaching
+        filters:
+          folders:
+            - teaching
+          exclude_featured: true
+      design:
+        columns: '2'
+        view: citation
+  - block: publication
+    content:
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -107,11 +116,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: "malito:leuson-mario-pedro.da-silva@polymtl.ca"
+      email: "leuson-mario-pedro.da-silva@polymtl.ca"
       address:
         street: Campus Université de Montréal, 2500, chemin de la Polytechnique
         city: Montreal
