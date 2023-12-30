@@ -79,11 +79,9 @@ sections:
     design:
       columns: '2'
   - block: service
-    id: service
     content:
         title: Service
   - block: teaching
-    id: teaching
     content:
         title: Teaching
   - block: publication
