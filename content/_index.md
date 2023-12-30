@@ -79,25 +79,13 @@ sections:
     design:
       columns: '2'
   - block: service
+    id: service
     content:
         title: Service
-        filters:
-          folders:
-            - service
-          exclude_featured: true
-      design:
-        columns: '2'
-        view: citation
   - block: teaching
+    id: teaching
     content:
         title: Teaching
-        filters:
-          folders:
-            - teaching
-          exclude_featured: true
-      design:
-        columns: '2'
-        view: citation
   - block: publication
     content:
       title: Publications
