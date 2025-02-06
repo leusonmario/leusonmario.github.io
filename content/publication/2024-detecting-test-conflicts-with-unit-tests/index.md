@@ -3,7 +3,13 @@ title: "Detecting semantic conflicts with unit tests"
 authors:
 - admin
 - Paulo Borba
-- Arthur Pires
+- Toni Maciel
+- Wardah Mahmood
+- Thorsten Berger
+- João Moisakis 
+- Aldiberg Gomes
+- Vinícius Leite
+
 doi: "https://doi.org/10.1016/j.jss.2024.112070"
 
 publication_types: ["article-journal"]
@@ -36,5 +42,4 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: bctw
 ---
