@@ -9,6 +9,8 @@ authors:
 - Claudio Magalhaes
 - Fabio B Q Da Silva
 
+date: '2017'
+
 doi: "https://doi.org/10.1109/ESEM.2017.35"
 
 publication_types: ['paper-conference']

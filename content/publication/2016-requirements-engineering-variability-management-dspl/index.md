@@ -6,6 +6,7 @@ authors:
 - Rossana Andrade
 - José Maria Monteiro
 
+date: '2016'
 doi: "https://doi.org/10.5220/0005872405440551"
 
 publication_types: ['paper-conference']

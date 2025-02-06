@@ -9,6 +9,8 @@ authors:
 - Carla Bezerra
 - Paulyne Juca
 
+date: '2016'
+
 doi: "https://doi.org/10.5753/wei.2016.9677"
 
 publication_types: ['paper-conference']
