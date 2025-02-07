@@ -55,6 +55,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Fellow
+          company: Polytechnique Montreal
+          company_url: 'https://www.polymtl.ca/'
+          company_logo: PolyMTL
+          location: Montreal, Canada
+          date_start: '2023-04-20'
+          date_end: ''
+          description: |2-
+              Research: 
+              
+              * Software Engineering for AI
+              * AI for SE
+              * LLMs
         - title: Assistant Professor I
           company: Catholic University of Pernambuco
           company_url: 'https://portal.unicap.br/'
@@ -77,6 +90,17 @@ sections:
           date_start: '2019-10-19'
           date_end: '2020-01-31'
           description: Research
+        - title: Lecturer
+          company: Catholic College of Paraiba
+          company_url: 'https://catolicapb.com.br/'
+          company_logo: CatolicaPB
+          location: Paraíba, Brazil
+          date_start: '2021-09-01'
+          date_end: '2022-01-31'
+          description: |2-
+              Undergraduate Courses: 
+              
+              * Software Testing                
     design:
       columns: '2'
   - block: collection
