@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,11 +25,12 @@ organizations:
     url: https://www.polymtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are on Large Language Models, AI4SE/SE4AI, Mining Software Repositories, Collaborative Software Development, Empirical Studies, and Software Evolution.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - LLMs
+  - SE4AI/AI4SE
   - Software Evolution
   - Empirical Studies
 
@@ -80,5 +81,5 @@ social:
 highlight_name: true
 ---
 
-I’m a Postdoctoral Fellow at Polytechnique Montreal (Canada) since 2023. I have a P.h.D. Degree in Computer Science at the Federal University of Pernambuco (Brazil), where I’m a fellow researcher on the Software Productivity Group. In my research, I investigate and develop tools for supporting developers when dealing with code integration conflicts (build and test conflicts). My research interests are on Large Language Models, Mining Software Repositories, Collaborative Software Development, Empirical Studies, and Software Evolution.
+I’m a Postdoctoral Fellow at Polytechnique Montreal (Canada) since 2023 working with [Prof. Foutse Khomh](https://khomh.net/). I have a P.h.D. Degree in Computer Science at the Federal University of Pernambuco (Brazil) under the supervision of [Prof. Paulo Borba](https://pauloborba.cin.ufpe.br/), where I still collaborate on the Software Productivity Group. In my research, I investigate how to support developers on their daily tasks, like when dealing with code integration conflicts (build and test conflicts) and code reviews (SE4AI/AI4SE). My research interests are on Large Language Models, Mining Software Repositories, Collaborative Software Development, Empirical Studies, and Software Evolution.
 {style="text-align: justify;"}
