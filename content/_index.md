@@ -119,7 +119,7 @@ sections:
       columns: '2'
       view: citation
   - block: service
-    id: services
+    id: service
     content:
       title: Services
       sections:
