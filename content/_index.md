@@ -103,6 +103,31 @@ sections:
               * Software Testing                
     design:
       columns: '2'
+  - block: service
+    id: service
+    content:
+      title: Services
+      
+      subtitle: Conferences
+      
+      items:
+        - title: Conferences
+            - ICSE  (2025) - Artifact Evaluation
+            - SANER (2025) - Technical Track, Early Research Achievement (ERA) Track
+            - SANER (2024) - Early Research Achievement (ERA) Track
+            - SBES  (2024) - Technical Track
+            - MSR   (2022) - Shadow PC Member
+          
+        - title: Journals
+          items:
+            - Transactions on Software Engineering and Methodology (2025)
+            - Journal of Software and Systems (2024, 2023)
+            - Journal of Software Evolution and Process (2024, 2023)
+            - Journal of Data and Information Quality (2024)
+            - PeerJ Computer Science (2024)
+            - Transactions of Software Engineering (2023)
+    design:
+      columns: '2'
   - block: collection
     id: collection
     content:
