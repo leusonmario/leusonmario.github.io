@@ -9,7 +9,7 @@ authors:
 - Claudio Magalhaes
 - Fabio B Q Da Silva
 
-date: '2017'
+date: 2017-12-11
 
 doi: "https://doi.org/10.1109/ESEM.2017.35"
 
@@ -19,7 +19,7 @@ publication_types: ['paper-conference']
 publication: In *International Symposium on Empirical Software Engineering and Measurement*
 publication_short: In *ESEM*
 
-tags: [Work design, autonomy, survey research]
+tags: [work design, autonomy, survey research]
 
 # links:
 # - name: ""

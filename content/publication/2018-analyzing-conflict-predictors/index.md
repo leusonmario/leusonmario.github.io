@@ -6,6 +6,8 @@ authors:
 - admin
 - Guilherme Cavalcanti
 
+date: 2018-05-28
+
 doi: "https://doi.org/10.1145/3196398.3196437"
 
 publication_types: ['paper-conference']

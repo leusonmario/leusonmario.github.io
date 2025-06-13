@@ -9,7 +9,7 @@ authors:
 - Carla Bezerra
 - Paulyne Juca
 
-date: '2016'
+date: 2016-07-04
 
 doi: "https://doi.org/10.5753/wei.2016.9677"
 
@@ -19,7 +19,7 @@ publication_types: ['paper-conference']
 publication: In *Workshop sobre Educação em Computação *
 publication_short: In *WEI*
 
-tags: [Work design, autonomy, survey research]
+tags: [poo, java, jogo]
 
 # links:
 # - name: ""

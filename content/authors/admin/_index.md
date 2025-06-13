@@ -38,13 +38,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Federal University of Pernambuco, Brazil
+      institution: Federal University of Pernambuco, Brazil - Exchange in Chalmers University (Sweden)
       year: 2022
     - course: MSc in Computer Science
       institution: Federal University of Pernambuco, Brazil
       year: 2018
     - course: BSc in Software Engineering
-      institution: Federal University of Ceará, Brazil
+      institution: Federal University of Ceará, Brazil - Exchange in TU Munich (Germany)
       year: 2015
 
 # Social/Academic Networking

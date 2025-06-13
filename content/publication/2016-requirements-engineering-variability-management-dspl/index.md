@@ -6,7 +6,7 @@ authors:
 - Rossana Andrade
 - José Maria Monteiro
 
-date: '2016'
+date: 2016-04-25
 doi: "https://doi.org/10.5220/0005872405440551"
 
 publication_types: ['paper-conference']
@@ -15,7 +15,7 @@ publication_types: ['paper-conference']
 publication: In *International Conference on Enterprise Information Systems*
 publication_short: In *ICEIS*
 
-tags: [dynamic Software Product Line, Requirements Engineering, Variability Management]
+tags: [dspl, requirements engineering, variability management, slr]
 
 # links:
 # - name: ""
