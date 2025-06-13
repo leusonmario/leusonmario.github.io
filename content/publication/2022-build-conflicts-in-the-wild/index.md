@@ -6,6 +6,8 @@ authors:
 - Arthur Pires
 doi: "https://doi.org/10.1002/smr.2441"
 
+date: 2022-03-07
+
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.

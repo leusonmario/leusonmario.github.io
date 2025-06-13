@@ -5,6 +5,8 @@ authors:
 - Paulo Borba
 - admin
 
+date: 2024-09-30
+
 doi: "https://doi.org/10.5753/sblp.2024.3471"
 
 publication_types: ['paper-conference']

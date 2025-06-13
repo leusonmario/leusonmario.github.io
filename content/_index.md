@@ -82,14 +82,6 @@ sections:
               * Object-Oriented Programming
               * Software Testing
               * Programming Languages Paradigms
-        - title: Research Assistant
-          company: Chalmers University
-          company_url: 'https://www.chalmers.se/'
-          company_logo: Chalmers
-          location: Gothenburg, Sweden
-          date_start: '2019-10-19'
-          date_end: '2020-01-31'
-          description: Research
         - title: Lecturer
           company: Catholic College of Paraiba
           company_url: 'https://catolicapb.com.br/'
@@ -100,7 +92,15 @@ sections:
           description: |2-
               Undergraduate Courses: 
               
-              * Software Testing                
+              * Software Testing
+        - title: Research Assistant
+          company: Chalmers University
+          company_url: 'https://www.chalmers.se/'
+          company_logo: Chalmers
+          location: Gothenburg, Sweden
+          date_start: '2019-10-19'
+          date_end: '2020-01-31'
+          description: Research
     design:
       columns: '2'
   - block: collection
@@ -118,29 +118,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: service
-    id: service
-    content:
-      title: Services
-      sections:
-        - category: Conferences 🏛️
-          description: "Program Committee & Reviewing Roles"
-          items:
-            - ICSE (2025) - Artifact Evaluation
-            - SANER (2025) - Technical Track, Early Research Achievement (ERA) Track
-            - SANER (2024) - Early Research Achievement (ERA) Track
-            - SBES (2024) - Technical Track
-            - MSR (2022) - Shadow PC Member
-
-        - category: Journals 📚
-          description: "Reviewer for:"
-          items:
-            - Transactions on Software Engineering and Methodology (TOSEM) (2025)
-            - Journal of Software and Systems (JSS) (2024, 2023)
-            - Journal of Software Evolution and Process (JSEP) (2024, 2023)
-            - Journal of Data and Information Quality (JDIQ) (2024)
-            - PeerJ Computer Science (2024)
-            - Transactions of Software Engineering (TSE) (2023)
   - block: contact
     id: contact
     content:

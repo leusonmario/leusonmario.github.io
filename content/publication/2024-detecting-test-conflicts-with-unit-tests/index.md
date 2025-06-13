@@ -10,6 +10,8 @@ authors:
 - Aldiberg Gomes
 - Vinícius Leite
 
+date: 2024-04-24
+
 doi: "https://doi.org/10.1016/j.jss.2024.112070"
 
 publication_types: ["article-journal"]

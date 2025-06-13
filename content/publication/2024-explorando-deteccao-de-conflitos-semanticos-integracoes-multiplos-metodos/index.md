@@ -12,6 +12,8 @@ authors:
 
 # Author notes (optional)
 
+date: 2024-09-30
+
 doi: 'https://doi.org/10.5753/sbes.2024.3348'
 
 # Publication type.
