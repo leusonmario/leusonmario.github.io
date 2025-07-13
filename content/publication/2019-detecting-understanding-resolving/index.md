@@ -3,7 +3,7 @@ title: "Detecting, Understanding and Resolving Build and Test Conflicts"
 authors:
 - admin
 
-date: 2018-05-28
+date: 2019-05-28
 
 doi: "https://10.1109/ICSE-Companion.2019.00079"
 

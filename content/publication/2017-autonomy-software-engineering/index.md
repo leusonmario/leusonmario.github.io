@@ -24,5 +24,5 @@ tags: [work design, autonomy, survey research]
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3196398.3196437
+url_pdf: https://doi.org/10.1109/ESEM.2017.35
 ---
