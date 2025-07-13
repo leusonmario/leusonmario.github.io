@@ -11,6 +11,7 @@ show_table_of_contents: true
 
 ## Program Committees
 
+- Committee Member of QUATIC - Track: Cloud Computing and System Architecture (CCSA), 2025
 - Committee Member of ICSE Artifact Evaluation, 2025 
 - Committee Member of SANER Technical Track, 2025
 - Committee Member of SANER Early Research Achievement (ERA) Track, 2025
@@ -21,6 +22,7 @@ show_table_of_contents: true
 
 ## Journal Reviewer
 
+- Manuscript Reviewer of the Empirical Software Engineering (EMSE), 2025
 - Manuscript Reviewer of the Transactions on Software Engineering and Methodology (TOSEM), 2025  
 - Manuscript Reviewer of the Transactions of Software Engineering (TSE), 2023
 - Manuscript Reviewer of the Journal of Software and Systems (JSS), 2023, 2024 
