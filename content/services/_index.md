@@ -9,8 +9,17 @@ show_table_of_contents: true
 
 # Services
 
+## Organising Committees
+
+- Virtualization Chair in International Conference on the Foundations of Software Engineering (FSE), 2026
+
+
 ## Program Committees
 
+- Committee Member of CASCON Artifacts Evaluation
+- Committee Member of SBES Technical Track, 2025
+- Committee Member of  LATAM School (SBES), 2025
+- Committee Member of WBOTS, 2025
 - Committee Member of QUATIC - Track: Cloud Computing and System Architecture (CCSA), 2025
 - Committee Member of ICSE Artifact Evaluation, 2025 
 - Committee Member of SANER Technical Track, 2025
@@ -24,7 +33,7 @@ show_table_of_contents: true
 
 - Manuscript Reviewer of the Empirical Software Engineering (EMSE), 2025
 - Manuscript Reviewer of the Transactions on Software Engineering and Methodology (TOSEM), 2025  
-- Manuscript Reviewer of the Transactions of Software Engineering (TSE), 2023
+- Manuscript Reviewer of the Transactions of Software Engineering (TSE), 2023, 2025
 - Manuscript Reviewer of the Journal of Software and Systems (JSS), 2023, 2024 
 - Manuscript Reviewer of the Journal of Software: Evolution and Process (JSEP), 2023, 2024  
 - Manuscript Reviewer of the Journal of Data and Information Quality (JDIQ), 2024  

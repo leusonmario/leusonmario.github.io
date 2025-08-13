@@ -63,7 +63,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=zIsapBMAAAAJ&hl=en&authuser=1
+    link: https://scholar.google.com/citations?user=5GaDj9kAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/leusonmario
